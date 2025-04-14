@@ -1,5 +1,5 @@
 # CollectCoinsGame
-super casual game with BFS+ algorithm 
+super casual game with BFS+ algorithm and OOP concepts
 
 How to plaAaAAAAAAYYYYYYYYYYYYYY
 1. Download
